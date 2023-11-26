@@ -1,2 +1,2 @@
-# Ignore all folders and subfolders containing the phrase "data"
-**/*data*/
+# Ignore all contents inside folders and subfolders containing the phrase "data"
+**/data/**
