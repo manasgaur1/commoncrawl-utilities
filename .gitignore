@@ -1,2 +1,3 @@
-# Ignore all contents inside folders and subfolders containing the phrase "data"
-**/data/**
+# Ignore all files inside folders and subfolders containing the phrase "data"
+**/data/*
+!**/data/readme.md
