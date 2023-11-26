@@ -1,0 +1,4 @@
+{
+"reserved_words": ["WARC-Type","WARC-Date","WARC-Filename","WARC-Record-ID","Content-Type","Content-Length","Software-Info","Extracted-Date","robots","isPartOf","operator","description","publisher","WARC-Target-URI","WARC-Refers-To","WARC-Block-Digest","WARC-Identified-Content-Language"],
+"record_start": "WARC/1.0"
+}
