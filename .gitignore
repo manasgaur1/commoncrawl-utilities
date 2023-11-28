@@ -1,0 +1,3 @@
+# Ignore all files inside folders and subfolders containing the phrase "data", except readme.md
+**/data/*
+!**/data/readme.md
